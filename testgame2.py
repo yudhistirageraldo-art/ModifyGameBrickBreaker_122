@@ -9,12 +9,12 @@ import math
 # =========================
 WIDTH = 610
 HEIGHT = 400
-FPS = 60
+FPS = 180
 FRAME_TIME = 1000 // FPS
 
-BG = "#10152b"
-CYAN = "#00e5ff"
-WHITE = "#ffffff"
+BG = "#15242d"
+CYAN = "#ff0000"
+WHITE = "#e6ff08"
 
 
 # =========================
